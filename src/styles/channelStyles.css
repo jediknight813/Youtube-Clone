@@ -1,0 +1,9 @@
+.Header {
+    width: 100%;
+    position: absolute;
+    height: 5%;
+    background-color: gray;
+    top: 0%;
+    left: 0%;
+}
+
