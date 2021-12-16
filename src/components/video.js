@@ -6,8 +6,10 @@ function Video() {
 
 
     return (
-        <div className="VideoSize">
-            
+        <div>
+            <iframe className="VideoPlayer" title="never gonna give you up"
+                src="https://www.youtube.com/embed/dQw4w9WgXcQ">
+            </iframe>
         </div>
     )
 }

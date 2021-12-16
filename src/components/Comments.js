@@ -6,8 +6,8 @@ function Comments() {
 
 
     return (
-        <div>
-
+        <div className="comments">
+            Restricted Mode has hidden comments for this video.
         </div>
     )
 }
