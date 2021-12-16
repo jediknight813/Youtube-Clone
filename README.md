@@ -1,6 +1,6 @@
 a clone of youtube with a videoplayer made for the odin project.
 
-a link to the odin project:
+a link to the odin project: https://www.theodinproject.com
 
 a link to the website i made: 
 
